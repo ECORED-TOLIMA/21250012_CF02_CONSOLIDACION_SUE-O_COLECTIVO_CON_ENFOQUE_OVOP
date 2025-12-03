@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'Nombre_del_recurso_educativo',
-    descripcionCurso: 'Descripción_del_RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    componenteFormativo:
+      'Identificación y visibilización de los tesoros del territorio',
+    descripcionCurso:
+      'Este componente formativo desarrolla las capacidades para identificar y visibilizar los tesoros del territorio mediante el enfoque Mi Pueblo, Mi Producto, Mi Orgullo – OVOP Colombia. Promueve el reconocimiento de recursos locales, la construcción del sueño colectivo y la formulación de productos estratégicos que fortalezcan la identidad comunitaria y el desarrollo local sostenible mediante procesos participativos.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -30,13 +32,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Tesoros para el desarrollo local endógeno',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos',
+            hash: 't_1_2',
           },
         ],
       },
@@ -44,14 +51,134 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Representatividad sociocultural de los tesoros',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Concepto',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Criterios de valoración',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Ideación de producto estrella',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Concepto',
+            hash: 't_3_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Marca',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Concepto',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Componentes',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Marca Territorial',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Concepto',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Estrategia de marca territorial',
+            hash: 't_5_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Sueño colectivo',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo:
+              'Definición bajo el enfoque Mi Pueblo, Mi Producto, Mi Orgullo',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Características',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Componentes',
+            hash: 't_6_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: '#[i Backcasting]',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Concepto',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Pasos',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Acciones de visibilización del territorio',
+            hash: 't_7_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Promoción territorial',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Concepto',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.2',
+            titulo: 'Elementos',
+            hash: 't_8_2',
+          },
+        ],
       },
     ],
     subMenu: [

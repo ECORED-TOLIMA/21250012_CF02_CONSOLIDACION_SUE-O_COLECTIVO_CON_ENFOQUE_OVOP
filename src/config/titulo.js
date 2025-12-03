@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Identificación y visibilización de los tesoros del territorio'
