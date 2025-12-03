@@ -228,28 +228,124 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema:
+        'Empoderamiento de la comunidad rural a través de la exploración de los recursos locales.',
+      referencia: 'JICA. 2025. Agricultural and Rural Development IRODORI.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=0e0Piubx1SM',
     },
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Marca Territorial desde el enfoque OVOP',
+      referencia:
+        'Agricultural and Rural Development. Movimiento “Un Pueblo, Un Producto” (OVOP).',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=88qXVJnp03M&t=69s',
+    },
+    {
+      tema: 'Marca País',
+      referencia: 'Marca Colombia',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=H_VU0Z4kD68',
+    },
+    {
+      tema:
+        'Tienda de Productos Locales como estrategia de visibilización y comercialización de los tesoros locales',
+      referencia:
+        'Municipalidad de Orotina. 2021. Mercadito OVOP. Casa de Turismo Cultural de Puerto Limón',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=3N6tEnRkke0&list=PLZ9z6MOt01wZdzXfeTX5MVNs0ih6Y0bsI',
+    },
+    {
+      tema: 'Elementos de la Identidad de Marca',
+      referencia: 'Barra, Cristobal (s.f.). Elementos de la Identidad de Marca',
+      tipo: 'Artículo',
+      link:
+        'https://rsu.fen.uchile.cl/wp-content/uploads/2024/06/Elementos-claves-de-la-identidad-de-marca.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Sueño colectivo',
+      significado:
+        'visión compartida del futuro del territorio que orienta las acciones de desarrollo local y moviliza a la comunidad.',
+    },
+    {
+      termino: '<em>Backcasting</em>',
+      significado:
+        'método de planificación que parte del futuro deseado para definir los pasos necesarios para alcanzarlo desde el presente.',
+    },
+    {
+      termino: 'Promoción territorial',
+      significado:
+        'conjunto de acciones destinadas a visibilizar, posicionar y dinamizar los recursos, productos y atractivos de un territorio.',
+    },
+    {
+      termino: 'Desarrollo local endógeno',
+      significado:
+        'enfoque de desarrollo que se construye desde las capacidades, recursos y decisiones de la comunidad.',
+    },
+    {
+      termino: 'Identidad territorial',
+      significado:
+        'conjunto de símbolos, prácticas y valores que expresan quiénes son los habitantes de un territorio y qué los distingue.',
+    },
+    {
+      termino: 'Atractivos locales',
+      significado:
+        'bienes, lugares, prácticas o manifestaciones culturales que generan interés por su valor único o distintivo.',
+    },
+    {
+      termino: '<em>marketing</em> territorial',
+      significado:
+        'estrategias para posicionar un territorio en función de su identidad, productos y oportunidades.',
+    },
+    {
+      termino: 'Plan de acción',
+      significado:
+        'documento que organiza actividades, responsables y tiempos para alcanzar metas del desarrollo local.',
+    },
+    {
+      termino: 'Comité OVOP',
+      significado:
+        'grupo de actores locales encargados de coordinar, apoyar y dar continuidad a los procesos OVOP en el territorio.',
+    },
+    {
+      termino: 'Productos y servicios del territorio',
+      significado:
+        'bienes y experiencias que representan la identidad local y pueden ser potenciados en procesos OVOP.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Copymate. 2024. marketing territorial - promoción de regiones como elemento de estrategias de desarrollo local.',
+      link:
+        'https://copymate.app/es/blog/multi/marketing-territorial-promocion-de-regiones-como-elemento-de-estrategias-de-desarrollo-local/#:~:text=En%20el%20%C3%A1mbito%20del%20marketing%20territorial%2C%20las,la%20efectividad%20de%20las%20acciones%20de%20promoci%C3%B3n.',
+    },
+    {
+      referencia:
+        'Esic University. 2024. Método SCAMPER: ¿qué es y cómo podemos aplicarlo?.',
+      link:
+        'https://www.esic.edu/rethink/marketing-y-comunicacion/que-es-metodo-scamper-como-aplicarlo-c',
+    },
+    {
+      referencia: 'FJ Intelligence. (s.f.). Backcasting.',
+      link: 'https://fjintelligence.com/terminos/backcasting/',
+    },
+    {
+      referencia:
+        'Gómez Camargo, A. C. (2015). Elementos del marketing territorial que intervienen en las marcas regionales y los productos con denominación de origen.',
+      link: '',
+    },
+    {
+      referencia:
+        'SENA, JICA. 2020. OVOP COLOMBIA Estrategia de desarrollo local incluyente.',
+      link: 'https://www.sena.edu.co/es-co/sena/Paginas/ovop_colombia.aspx',
+    },
+    {
+      referencia: 'SENA, JICA. 2020. Guía para la Ideación de Producto.',
+      link: 'https://www.sena.edu.co/es-co/sena/Paginas/ovop_colombia.aspx',
     },
   ],
   creditos: [
@@ -272,9 +368,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_Experto',
-          cargo: 'Cargo_Experto',
-          centro: 'Regional_Experto',
+          nombre: 'Leidi Paola Mulcué Vitopía',
+          cargo: 'Instructora',
+          centro: 'Centro Nacional de Hotelería, Turismo y Alimentos',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -282,17 +383,17 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Daniel Polanco',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Junior Rodriguez Rodriguez',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -302,12 +403,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Jorge Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_Experto',
+          nombre: 'Jorge Bustos',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
