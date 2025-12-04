@@ -29,7 +29,7 @@
             .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4
               img.w-75.m-auto(src='@/assets/curso/tema7/img02.svg' alt="Imagen decorativa")
             .col-lg-10
-              p.mb-0 La siguiente figura ilustra la diferencia metodológica entre #[i Backcasting] y forecasting, mostrando cómo cada enfoque relaciona el presente con los posibles futuros dentro de los procesos de planificación del desarrollo territorial.
+              p.mb-0 La siguiente figura ilustra la diferencia metodológica entre #[i Backcasting] y #[i forecasting], mostrando cómo cada enfoque relaciona el presente con los posibles futuros dentro de los procesos de planificación del desarrollo territorial.
       .col-lg-3.col-sm-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema7/img03.png' alt="Imagen decorativa")
 

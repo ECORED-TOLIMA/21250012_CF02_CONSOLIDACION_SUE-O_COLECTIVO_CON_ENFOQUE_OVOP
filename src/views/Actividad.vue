@@ -17,7 +17,7 @@ export default {
         'Reconociendo los tesoros y la identidad territorial con enfoque OVOP',
       titulo: 'Cuestionario',
       introduccion:
-        'Evaluar la comprensión de los aprendices sobre los conceptos clave del componente —tesoros locales, representatividad sociocultural, ideación de producto estrella, marca y marca territorial, sueño colectivo, backcasting y promoción territorial— mediante preguntas y ejercicios que fortalezcan su capacidad para identificar, valorar y proyectar los elementos distintivos del territorio desde el enfoque Mi Pueblo, Mi Producto, Mi Orgullo.',
+        'Evaluar la comprensión de los aprendices sobre los conceptos clave del componente, tesoros locales, representatividad sociocultural, ideación de producto estrella, marca y marca territorial, sueño colectivo, <em>backcasting</em> y promoción territorial, mediante preguntas y ejercicios que fortalezcan su capacidad para identificar, valorar y proyectar los elementos distintivos del territorio desde el enfoque Mi Pueblo, Mi Producto, Mi Orgullo.',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -97,7 +97,7 @@ export default {
         {
           id: 6,
           texto:
-            'Target, problema, recursos y solución son los componentes del sueño colectivo.',
+            '<em>Target</em>, problema, recursos y solución son los componentes del sueño colectivo.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -142,7 +142,7 @@ export default {
         {
           id: 9,
           texto:
-            'Los elementos de marca más utilizados: nombre de la marca, símbolo (o logotipo e isotipo), slogan (o tagline), personajes asociados, jingles o melodías publicitarias y en muchos casos algunos olores, colores, tipos de letra y otros elementos secundarios.',
+            'Los elementos de marca más utilizados: nombre de la marca, símbolo (o logotipo e isotipo), <em>slogan</em> (o <em>tagline</em>), personajes asociados, <em>jingles</em> o melodías publicitarias y en muchos casos algunos olores, colores, tipos de letra y otros elementos secundarios.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -247,7 +247,7 @@ export default {
         {
           id: 16,
           texto:
-            'Backcasting es un método de planificación estratégica y prospectiva que parte del futuro deseado para definir los pasos necesarios que permitirían alcanzarlo.',
+            '<em>Backcasting</em> es un método de planificación estratégica y prospectiva que parte del futuro deseado para definir los pasos necesarios que permitirían alcanzarlo.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -262,7 +262,7 @@ export default {
         {
           id: 17,
           texto:
-            'El proceso de backcasting se desarrolla en cuatro fases: 1. Definir el futuro objetivo, 2. analizar el presente, 3. diseñar el recorrido inverso, 4. construir la hoja de ruta.',
+            'El proceso de <em>backcasting</em> se desarrolla en cuatro fases: 1. Definir el futuro objetivo, 2. analizar el presente, 3. diseñar el recorrido inverso, 4. construir la hoja de ruta.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

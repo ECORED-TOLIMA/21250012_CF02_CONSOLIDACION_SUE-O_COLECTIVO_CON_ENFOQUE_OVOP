@@ -142,7 +142,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: '#[i Backcasting]',
+        titulo: '<i>Backcasting</i>',
         desarrolloContenidos: true,
         subMenu: [
           {

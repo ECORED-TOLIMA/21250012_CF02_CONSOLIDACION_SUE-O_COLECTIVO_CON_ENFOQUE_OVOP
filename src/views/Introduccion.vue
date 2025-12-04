@@ -19,7 +19,7 @@
             .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4
               img(src='@/assets/curso/intro/img02.svg' alt="Imagen decorativa")
             .col-lg-10
-              p.mb-0 El enfoque Mi Pueblo, Mi Producto, Mi Orgullo – OVOP Colombia propone que el desarrollo local surja desde las capacidades, recursos y saberes propios del territorio. Este enfoque invita a las comunidades a identificar sus tesoros, valorarlos, clasificarlos y conectarlos con procesos de branding territorial, #[i marketing], liderazgo comunitario y planificación estratégica, de manera que puedan proyectarse hacia un futuro construido colectivamente.
+              p.mb-0 El enfoque Mi Pueblo, Mi Producto, Mi Orgullo - OVOP Colombia propone que el desarrollo local surja desde las capacidades, recursos y saberes propios del territorio. Este enfoque invita a las comunidades a identificar sus tesoros, valorarlos, clasificarlos y conectarlos con procesos de branding territorial, #[i marketing], liderazgo comunitario y planificación estratégica, de manera que puedan proyectarse hacia un futuro construido colectivamente.
         p.mb-0 Caracterizar el territorio implica analizar sus dimensiones socioculturales, económicas, ambientales y políticas, así como comprender la representatividad de los tesoros locales y su potencial para generar bienestar. También requiere reconocer las narrativas y símbolos que fortalecen la identidad comunitaria y que dan origen a marcas territoriales coherentes con la historia y los valores del lugar.
     
     .row.justify-content-center.align-items-center.mb-5

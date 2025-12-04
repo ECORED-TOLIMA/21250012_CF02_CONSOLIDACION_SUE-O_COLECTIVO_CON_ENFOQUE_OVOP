@@ -82,7 +82,8 @@
           .row.justify-content-center
             .col-lg-5.order-lg-1.order-2
               .h4 Paso 3. Reconocer la situación actual dentro y fuera del territorio
-              p.mb-0 Consiste123
+              p Consiste en aprovechar el espacio bidireccional de escucha: recoger las voces, percepciones y expectativas de diversos actores del territorio es la mejor manera de comprender la situación real.
+              p.mb-0 Este análisis permite reconocer fortalezas, desafíos, tensiones y oportunidades que influirán en la estrategia de marca.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema5/img10.jpg', alt="Imagen decorativa")
           .row.justify-content-center
