@@ -36,25 +36,25 @@
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
             .col-sm-4.col-3
-              img(src='@/assets/curso/tema1/img11.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema5/img04.svg' alt="Imagen decorativa")
           p.mb-0 Que la comunidad construya y sea dueña de la marca territorial basada en su visión, cultura, íconos, tesoros locales y productos.
       .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
             .col-sm-4.col-3
-              img(src='@/assets/curso/tema1/img12.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema5/img05.svg' alt="Imagen decorativa")
           p.mb-0 Que la comunidad cuente con una marca territorial para promocionar y posicionar su pueblo y sus productos.
       .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
             .col-sm-4.col-3
-              img(src='@/assets/curso/tema1/img13.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema5/img06.svg' alt="Imagen decorativa")
           p.mb-0 Que la marca genere orgullo y unión en la comunidad, al mismo tiempo que revitaliza la economía mediante la atracción de visitantes y clientes.
       .col-lg-3.col-sm-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
             .col-sm-4.col-3
-              img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema5/img07.svg' alt="Imagen decorativa")
           p.mb-0 Que la marca contribuya a la paz, la unión y la armonía comunitaria.
 
     separador

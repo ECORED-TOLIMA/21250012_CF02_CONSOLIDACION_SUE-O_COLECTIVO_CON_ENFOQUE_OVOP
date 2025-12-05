@@ -23,8 +23,8 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
-        p El #[i Backcasting] parte de la formulación de un futuro deseado y trabaja de manera retrospectiva para determinar qué debe ocurrir en el presente y en el mediano plazo para hacerlo posible. En el enfoque OVOP, esta herramienta resulta fundamental porque permite articular el sueño colectivo con acciones realistas, alcanzables y orientadas al desarrollo local incluyente.
-        .tarjeta.BG02.p-4.mb-4(data-aos="fade-right")
+        p El #[i Backcasting] parte de la formulación de un #[strong futuro deseado] y trabaja de manera retrospectiva para determinar qué debe ocurrir en el presente y en el mediano plazo para hacerlo posible. En el enfoque OVOP, esta herramienta resulta fundamental porque permite articular el #[strong sueño colectivo] con acciones realistas, alcanzables y orientadas al desarrollo local incluyente.
+        .tarjeta.BG02.p-4(data-aos="fade-right")
           .row.justify-content-center.align-items-center
             .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4
               img.w-75.m-auto(src='@/assets/curso/tema7/img02.svg' alt="Imagen decorativa")
@@ -91,10 +91,10 @@
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema7/img08.png' alt="Imagen decorativa")
 
-    .row.justify-content-center.mb-4
-      .col-lg-1.col-2.mb-lg-0.mb-4
+    .row.justify-content-center.mb-5
+      .col-lg-2.col-3.mb-lg-0.mb-4
         img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
-      .col-lg-11
+      .col-lg-10
         p.mb-0 El valor del #[i Backcasting] radica en que permite pensar más allá de las limitaciones presentes y construir rutas innovadoras para alcanzar un futuro deseado, especialmente útil en territorios que necesitan transformaciones profundas y colaborativas.  
 
     .mb-4.d-flex(data-aos="fade-right")
@@ -130,7 +130,7 @@
       h2 7.3 Acciones de visibilización del territorio
     
     p Para que las estrategias de #[strong #[i marketing] territorial] trasciendan el intercambio de bienes y servicios y realmente contribuyan al mejoramiento de la calidad de vida, es necesario identificar las condiciones internas que los actores locales deben fortalecer para hacer competitivo su producto.
-    p Entre estas acciones se encuentran:
+    p.mb-5 Entre estas acciones se encuentran:
 
     SlyderF.color-acento-botones.mb-5(columnas="col-lg-6 col-xl-4" data-aos="zoom-in")
       .tarjeta.BGIMG04.p-4

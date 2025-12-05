@@ -54,10 +54,19 @@
               i.fas.fa-circle-notch
               p.mb-0 #[strong Estrategias de comunicación y gestión del conocimiento, que integren]:
           .tarjeta.BG07.p-4
-            p.mb-2 o	Construcción de identidad colectiva.
-            p.mb-2 o	Participación comunitaria.
-            p.mb-2 o	Fortalecimiento del mercado laboral.
-            p.mb-0 o	Posicionamiento de productos y servicios territoriales.
+            ul.lista-ul--color
+              li(style="margin-bottom: 2px")
+                i.fas.fa-spinner
+                | Construcción de identidad colectiva.
+              li(style="margin-bottom: 2px")
+                i.fas.fa-spinner
+                | Participación comunitaria.
+              li(style="margin-bottom: 2px")
+                i.fas.fa-spinner
+                | Fortalecimiento del mercado laboral.
+              li(style="margin-bottom: 2px")
+                i.fas.fa-spinner
+                | Posicionamiento de productos y servicios territoriales.
         .col-lg-2.col-sm-3.col-4.order-lg-2.order-1.mb-lg-0.mb-4
           img(src='@/assets/curso/tema8/img04.svg' alt="Imagen decorativa")
 
@@ -143,9 +152,9 @@
           p.mb-0 Gestión de recursos para implementar todas las acciones de promoción.
 
       .row.justify-content-center.mb-4
-        .col-lg-1.col-2.mb-lg-0.mb-4
+        .col-lg-2.col-3.mb-lg-0.mb-4
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
-        .col-lg-11
+        .col-lg-10
           p.mb-0 En Colombia existe el #[STRONG Sistema de Información para la Promoción Territorial (SIPT)] del Ministerio de Comercio, Industria y Turismo, que consolida información estratégica sobre regiones, atractivos y oportunidades, facilitando la toma de decisiones y la estructuración de estrategias territoriales.
 
 </template>

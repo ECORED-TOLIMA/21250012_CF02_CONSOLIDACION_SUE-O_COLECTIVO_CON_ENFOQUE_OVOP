@@ -90,9 +90,9 @@
           p.mb-0 #[strong Plan de acción]: elaboración de un plan que permita alcanzar el sueño colectivo, orientado a la competitividad del producto, la participación social y la organización del comité local de coordinación.
 
       .row.justify-content-center.mb-4
-        .col-lg-1.col-2.mb-lg-0.mb-4
+        .col-lg-2.col-3.mb-lg-0.mb-4
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
-        .col-lg-11
+        .col-lg-10
           p.mb-0 El sueño colectivo OVOP integra una visión compartida del futuro territorial, la valorización de la identidad a través de “Mi Producto”, la dinamización del desarrollo comunitario y la planificación estructurada de acciones para hacerlo realidad.
 
     .row.justify-content-center.mb-4

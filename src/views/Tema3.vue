@@ -20,7 +20,7 @@
       h2 3.1 Concepto
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
         p La idea es un medio para entregar un pensamiento, una forma o una experiencia nueva a las personas. Ese elemento novedoso es esencial para detonar procesos de innovación comunitaria. La generación de ideas no es exclusiva de profesionales o especialistas: #[strong cualquier persona puede crear ideas valiosas], siempre que exista la preparación adecuada.
         .tarjeta.BG02.p-3.mb-4
           .row.justify-content-center.align-items-center
@@ -60,9 +60,9 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p La técnica SCAMPER, desarrollada por Bob Eberlee, es una herramienta creativa utilizada para generar ideas, resolver problemas, mejorar productos y estimular la innovación. Surge como una mejora a la lista de verificación de Alex Osborne, creador del método de lluvia de ideas.
         .row.justify-content-center.mb-4
-          .col-lg-1.col-2.mb-lg-0.mb-4
+          .col-lg-2.d-lg-flex.d-none
             img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
-          .col-lg-11
+          .col-lg-10
             p.mb-0 SCAMPER permite analizar un producto, servicio o proceso desde siete acciones estratégicas: sustituir, combinar, adaptar, modificar, poner en otros usos, eliminar y reorganizar. Este enfoque invita a mirar los recursos del territorio desde nuevas perspectivas y descubrir posibilidades que pueden transformarse en productos estrella para la comunidad.
         p.mb-0 A continuación, se presenta la tabla correspondiente con las preguntas guía para cada una de las acciones SCAMPER:
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
