@@ -45,6 +45,16 @@ export default {
             titulo: 'Tipos',
             hash: 't_1_2',
           },
+          {
+            numero: '1.3',
+            titulo: 'Características de los tesoros',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Mapa de tesoros',
+            hash: 't_1_4',
+          },
         ],
       },
 
@@ -76,6 +86,11 @@ export default {
             numero: '3.1',
             titulo: 'Concepto',
             hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Técnica SCAMPER',
+            hash: 't_3_2',
           },
         ],
       },
@@ -177,6 +192,11 @@ export default {
             numero: '8.2',
             titulo: 'Elementos',
             hash: 't_8_2',
+          },
+          {
+            numero: '8.3',
+            titulo: 'Herramientas',
+            hash: 't_8_3',
           },
         ],
       },

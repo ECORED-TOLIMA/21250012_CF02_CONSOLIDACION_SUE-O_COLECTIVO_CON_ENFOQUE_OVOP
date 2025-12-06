@@ -40,7 +40,7 @@
   
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-        LineaTiempoD.color-acento-botones
+        LineaTiempoD.color-acento-botones.especial
           p(numero="1" titulo="Nombre de marca") Se recomienda utilizar nombres cortos, fáciles de pronunciar y memorables, especialmente en marcas nuevas. Esto facilita su recordación y su permanencia en la mente de los consumidores.
           p(numero="2" titulo="Símbolos") Comúnmente llamados logotipos, aunque técnicamente el logotipo es la parte escrita de la marca y el isotipo es la parte gráfica. Ambos deben permitir una recordación efectiva y tener la flexibilidad de usarse juntos o por separado.
           p(numero="3" titulo="<i>Slogans</i>") Frases breves que acompañan el nombre o símbolo de la marca. Deben ser concisas, directas y transmitir con claridad la esencia, la promesa o el atributo diferencial que la marca representa.

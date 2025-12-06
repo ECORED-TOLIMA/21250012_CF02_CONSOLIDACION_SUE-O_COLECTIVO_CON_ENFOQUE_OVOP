@@ -28,7 +28,7 @@
               p.mb-0 Una mente preparada observa de manera profunda, identifica conexiones entre conocimientos previos y reconoce oportunidades que otros podrían pasar por alto. En este sentido, la creatividad se alimenta de la experiencia, la observación, la acumulación de saberes y la interacción con el territorio.
             .col-lg-2.col-sm-3.col-4.order-lg-2.order-2.mb-lg-0.mb-4
               img(src='@/assets/curso/tema3/img02.svg' alt="Imagen decorativa")
-        p.mb-0 Las semillas de ideas se utilizan para visualizar la estructura del pensamiento creativo. Estas constan de cuatro componentes:
+        p.mb-0 Las #[strong semillas de ideas] se utilizan para visualizar la estructura del pensamiento creativo. Estas constan de cuatro componentes:
       .col-lg-3.col-sm-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img03.svg' alt="Imagen decorativa")
 

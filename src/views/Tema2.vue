@@ -27,7 +27,7 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p Los tesoros locales pueden aprovecharse para generar conciencia, sentido de pertenencia y capital social dentro del territorio. Su identificación y valorización contribuyen a que las comunidades reconozcan su propia riqueza cultural, productiva y ambiental. Al mismo tiempo, cuando un territorio ya posee capital social consolidado, este facilita el (re)descubrimiento de tesoros o productos con potencial para convertirse en elementos emblemáticos o “estrellas” del desarrollo local.
         .row.justify-content-center.mb-4
-          .col-lg-2.col-3.mb-lg-0.mb-4
+          .col-lg-2.d-lg-flex.d-none
             img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
           .col-lg-10
             p.mb-0 Los ciudadanos pueden convertirse en promotores de los productos únicos del territorio, y estos productos, a su vez, pueden funcionar como herramientas de promoción territorial. De esta manera, los tesoros fortalecen el reconocimiento de la comunidad y contribuyen a mejorar la competitividad y la proyección del territorio.

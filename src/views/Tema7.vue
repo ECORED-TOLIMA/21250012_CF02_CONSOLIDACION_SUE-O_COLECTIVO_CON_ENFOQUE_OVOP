@@ -92,9 +92,9 @@
         img(src='@/assets/curso/tema7/img08.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-5
-      .col-lg-2.col-3.mb-lg-0.mb-4
+      .col-lg-1.col-2.mb-lg-0.mb-4
         img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
-      .col-lg-10
+      .col-lg-11
         p.mb-0 El valor del #[i Backcasting] radica en que permite pensar más allá de las limitaciones presentes y construir rutas innovadoras para alcanzar un futuro deseado, especialmente útil en territorios que necesitan transformaciones profundas y colaborativas.  
 
     .mb-4.d-flex(data-aos="fade-right")

@@ -15,7 +15,6 @@
     top: 67%
     left: 5%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -100,7 +99,7 @@
   border: 2px solid #FFD600
   border-radius: 5px
 
-.BG06, .linea-tiempo-d .tarjeta
+.BG06
   background-color: #C5CBBD
 
 .BG07
@@ -109,21 +108,24 @@
 .BRI
   border-radius: 0 10px
 
-.linea-tiempo-d__item__number
-  background-color: #FAA159
-
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
-  background-color: #F3F9FF
-
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
-  border-radius: 5px 0
-
-.linea-tiempo-d__item__content__slot
-  border-radius: 0 5px
-
 .pasos-b__header__btn--right, .pasos-b__header__btn--left
   background-color: #FAA159
 
 .pasos-b__header__item--before .pasos-b__header__item__dot
   border-color: #FFD600
   background-color: #FFD600
+
+.linea-tiempo-d.color-acento-botones.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content
+      background-color: #F3F9FF !important 
+    .tarjeta.tarjeta--gris
+      background-color: #FEE3CD
+      color: #000 !important
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #C5CBBD
+.tarjeta.tarjeta--gris
+  background-color: #FAA159
+
+.pasos-b__header__item__dot i
+  color: $color-sistema-texto
