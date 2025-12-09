@@ -374,7 +374,8 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo:
+            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
@@ -389,12 +390,13 @@ export default {
       autores: [
         {
           nombre: 'Leidi Paola Mulcué Vitopía',
-          cargo: 'Instructora',
-          centro: 'Centro Nacional de Hotelería, Turismo y Alimentos',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Nacional de Hotelería, Turismo y Alimentos - Regional Distrito Capital',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Diseñadora de contenidos digitales',
+          cargo: 'Diseñadora web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -403,7 +405,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Daniel Polanco',
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -413,7 +420,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Junior Rodriguez Rodriguez',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -423,12 +430,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Rueda',
+          nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Jorge Bustos',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
